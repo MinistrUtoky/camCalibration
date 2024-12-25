@@ -1,0 +1,23 @@
+﻿  ForOpenCV.cpp
+C:\Users\viqto\source\repos\CameraCalibration\ForOpenCV\CameraCalibration.h(14,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\viqto\source\repos\CameraCalibration\ForOpenCV\CameraCalibration.h(69,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\viqto\source\repos\CameraCalibration\ForOpenCV\CameraCalibration.h(69,33): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\viqto\source\repos\CameraCalibration\ForOpenCV\CameraCalibration.h(72,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\viqto\source\repos\CameraCalibration\ForOpenCV\CameraCalibration.h(97,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\viqto\source\repos\CameraCalibration\ForOpenCV\ForOpenCV.cpp(82,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\viqto\source\repos\CameraCalibration\ForOpenCV\ForOpenCV.cpp(105,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\viqto\source\repos\CameraCalibration\ForOpenCV\ForOpenCV.cpp(107,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\viqto\source\repos\CameraCalibration\ForOpenCV\ForOpenCV.cpp(108,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\viqto\source\repos\CameraCalibration\ForOpenCV\ForOpenCV.cpp(109,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\viqto\source\repos\CameraCalibration\ForOpenCV\ForOpenCV.cpp(110,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\viqto\source\repos\CameraCalibration\ForOpenCV\ForOpenCV.cpp(124,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xmemory(700,103): warning C4244: 'argument': conversion from '_Ty' to '_Tp', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xmemory(700,103): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xmemory(700,103): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xmemory(700,103): warning C4244:             _Ty=double
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xmemory(700,103): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xmemory(700,103): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xmemory(700,103): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xmemory(700,103): warning C4244:             _Tp=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xmemory(700,103): warning C4244:         ]
+  ForOpenCV.vcxproj -> C:\Users\viqto\source\repos\CameraCalibration\x64\Debug\ForOpenCV.exe
